@@ -1,0 +1,8 @@
+pyaudio
+SpeechRecognition
+PyGame
+regex
+nltk
+pyttsx3
+googlesearch-python
+beautifulsoup4

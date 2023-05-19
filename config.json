@@ -1,0 +1,27 @@
+{
+    "nome": "newton",
+    "acoes": [
+        {
+            "nome": "usar",
+            "objetos": [
+                "crase",
+                "aonde",
+                "viagem",
+                "conserto",
+                "incerto",
+                "aspas"
+            ]
+        },
+        {
+            "nome": "usamos",
+            "objetos": [
+                "crase",
+                "aonde",
+                "viagem",
+                "conserto",
+                "incerto",
+                "aspas"
+            ]
+        }   
+    ]
+}
